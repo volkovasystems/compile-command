@@ -1,0 +1,6 @@
+[submodule "class-command-compiler"]
+	path = class-command-compiler
+	url = git@github.com:volkovasystems/class-command-compiler.git
+[submodule "class-java-command-compiler"]
+	path = class-java-command-compiler
+	url = git@github.com:volkovasystems/class-java-command-compiler.git
